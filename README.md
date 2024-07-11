@@ -6,7 +6,9 @@
 **¡Bienvenido a mi perfil!**
 **Bem-vindo ao meu perfil!**
 
-<img alt="image header" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/imgs/header.png"/> 
+
+
+![1693857261680](https://github.com/EzequielCuellar/EzequielCuellar/assets/156981451/cdc8e221-6f3f-45f7-ad21-b77e9e734c0a)
 
 ## ⚙️ My skills
 ## ⚙️ Mis habilidades
@@ -20,7 +22,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
-![Arch](https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&logo=arch-linux&logoColor=white)
+
 
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Estadísticas de Github
