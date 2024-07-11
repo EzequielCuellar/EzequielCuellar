@@ -1,4 +1,4 @@
-# <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Marcos!</p>
+# <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Ezequiel!</p>
 
 **Welcome to my profile!**
 
@@ -26,11 +26,8 @@
 
 ## Contact me
 
-<a href="mailto:marcosvaas@gmail.com-">
+<a href="mailto:ezequielalexiscuellar@gmail.com-">
 <img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
--------
-Credits: [marcos-inja](https://github.com/marcos-inja)
 
-Last Edited on: 26/10/2021
