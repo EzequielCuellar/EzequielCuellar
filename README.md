@@ -1,6 +1,6 @@
 <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Ezequiel!</p>
 <p align="center">¡Hola <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, soy Ezequiel!</p>
-<p align="center">##Oi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, eu sou Ezequiel!</p>
+<p align="center">¡Oi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, eu sou Ezequiel!</p>
 
 **Welcome to my profile!**/**¡Bienvenido a mi perfil!**/**Bem-vindo ao meu perfil!**
 
